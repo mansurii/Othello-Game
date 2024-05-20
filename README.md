@@ -31,7 +31,7 @@ Welcome to the Othello game, implemented using the Model-View-Controller (MVC) d
 1. ** Clone the repository:** git clone https://github.com/mansurii/othello-game.git
 2. ** Navigate to the project directory:** cd othello-game
 3. ** Complile the othello game:** javac -d bin src/*.java
-4.  ** Run the othello game:** Java -cp bin Main
+4. ** Run the othello game:** Java -cp bin Main
 
 ## Usage
 ### Starting the Game:
