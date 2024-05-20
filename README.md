@@ -28,14 +28,10 @@ Welcome to the Othello game, implemented using the Model-View-Controller (MVC) d
 - Ensure you have **Java** installed on your machine. You can verify the installation by running `java -version` in your command line.
 
 ### Steps using bash
-1. ** Clone the repository:**
-   git clone https://github.com/mansurii/othello-game.git
-2. ** Navigate to the project directory:**
-   cd othello-game
-3. ** Complete the othello game:**
-   javac -d bin src/*.java
-4.  ** Run the othello game:**   
-    java -cp bin Main
+1. ** Clone the repository:** git clone https://github.com/mansurii/othello-game.git
+2. ** Navigate to the project directory:** cd othello-game
+3. ** Complile the othello game:** javac -d bin src/*.java
+4.  ** Run the othello game:** Java -cp bin Main
 
 ## Usage
 ### Starting the Game:
